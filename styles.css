@@ -1,0 +1,13 @@
+
+#container {
+  width: 425px;
+  overflow: hidden;
+}
+
+.grid {
+  display: inline-block;
+  height: 25px;
+  width: 25px;
+  background-color: green;
+  margin: 1px;
+}
